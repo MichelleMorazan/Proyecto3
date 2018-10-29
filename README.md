@@ -1,4 +1,5 @@
-# Proyecto3import ddf.minim.*;
+# Proyecto3
+import ddf.minim.*;
 
 
 float n;
